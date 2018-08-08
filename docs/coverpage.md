@@ -4,5 +4,5 @@
 
 Quickly create / share application with co-workers for easy lookup and data-entry on Desktop or Mobile device.
 
-[Get Started](docs/index.html)
+[Get Started](#main)
 [GitHub](https://github.com/knnithyanand/EzAppGen)
